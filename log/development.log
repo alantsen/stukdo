@@ -332,3 +332,24 @@ Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for 
 
 
 Started GET "/assets/pages-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-03 19:13:54 +1100
+
+
+Started GET "/" for ::1 at 2015-04-03 19:22:42 +1100
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 419ms (Views: 409.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-04-03 19:22:43 +1100
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-04-03 19:22:43 +1100
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-04-03 19:22:43 +1100
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-04-03 19:22:43 +1100
+
+
+Started GET "/assets/pages-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-04-03 19:22:43 +1100
